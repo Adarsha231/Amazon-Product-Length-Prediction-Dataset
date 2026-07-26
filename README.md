@@ -499,7 +499,7 @@ root
 ```
 **Key Observation**: PRODUCT_TYPE_ID incorrectly inferred as string
 
-![Schema](schema.png)
+![Schema](screenshot/schema.png)
 
 ---
 
@@ -508,7 +508,7 @@ root
 ```
 734,736 total rows
 ```
-*[Insert screenshot of Cell 4 output here]*
+![row_count](screenshot/row_count.png)
 
 ---
 
@@ -529,7 +529,7 @@ root
 - ✅ **PRODUCT_ID**: 0 nulls
 - ✅ **PRODUCT_TYPE_ID**: 0 nulls
 
-*[Insert screenshot of null analysis output here]*
+![Null Valus](screenshot/.png)
 
 ---
 
