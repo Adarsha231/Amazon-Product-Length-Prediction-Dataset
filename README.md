@@ -55,7 +55,7 @@ df = spark.read.option("header", True)\
     .csv("/Volumes/workspace/default/test")
 ```
 
-<img width="1366" height="250" alt="image" src="https://github.com/user-attachments/assets/2635c8b2-634a-461f-be19-fae0ab99eb62" />
+
 
 **Purpose**:
 - Reads CSV with automatic schema detection
