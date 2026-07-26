@@ -499,7 +499,7 @@ root
 ```
 **Key Observation**: PRODUCT_TYPE_ID incorrectly inferred as string
 
-*[Insert screenshot of Cell 5 output here]*
+![Schema](schema.png)
 
 ---
 
