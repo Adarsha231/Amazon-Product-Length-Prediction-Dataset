@@ -499,7 +499,7 @@ root
 ```
 **Key Observation**: PRODUCT_TYPE_ID incorrectly inferred as string
 
-![Schema](screenshot/schema.png)
+![Schema](screenshot/before_schema.png)
 
 ---
 
