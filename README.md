@@ -596,4 +596,8 @@ Remaining columns: 4 (PRODUCT_ID, TITLE, DESCRIPTION, PRODUCT_TYPE_ID)
 | **Write Mode** | Overwrite |
 
 ---
+## Author
 
+- **Name:** Adarsha Naik
+- **USN** 4SF24CI006
+- **GitHub:** Adarsha231
