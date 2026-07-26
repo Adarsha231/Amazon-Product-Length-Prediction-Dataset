@@ -529,7 +529,7 @@ root
 - ✅ **PRODUCT_ID**: 0 nulls
 - ✅ **PRODUCT_TYPE_ID**: 0 nulls
 
-![Null Valus](screenshot/.png)
+![Null Valus](screenshot/total_null_values.png)
 
 ---
 
@@ -544,7 +544,7 @@ root
  |-- PRODUCT_TYPE_ID: integer (nullable = true)  ✅ Corrected
  |-- _corrupt_record: string (nullable = true)   ✅ Added
 ```
-*[Insert screenshot of explicit schema here]*
+![Schema](screenshot/schema.png)
 
 ---
 
